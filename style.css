@@ -1,0 +1,50 @@
+* {
+    /* margin: 0; */
+}
+
+span {
+    color: blue;
+    font-size: 40px;
+}
+
+.purple {
+    border: 5px solid orange;
+    margin: 50px auto;
+    padding: 30px;
+    color: purple;
+
+    text-align: center;
+
+    background-color: grey;
+
+    box-sizing: content-box;
+
+    width: 300px;
+}
+
+.green {
+    color: green;
+}
+
+.font {
+    font-size: 40px;
+}
+
+#text {
+    font-size: 40px;
+    color: red;
+}
+
+.font__setting {
+    font-size: 50px;
+    font-weight: bold;
+    color: brown;
+}
+
+.inline {
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    margin: 10px;
+    float: left;
+}
